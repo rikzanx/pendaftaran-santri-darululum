@@ -1,0 +1,16 @@
+.nav-link{
+  color: white !important;
+}
+.nav-link:hover{
+  color: black !important;
+}
+.login-form{
+  background-image: url("../images/bg-arrisalah1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+.tulisan-header{
+  color: white;
+}
